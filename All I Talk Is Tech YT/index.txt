@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+
+<style>
+html {
+    min-height: 100%;
+}
+
+body {
+    background: -webkit-linear-gradient(left, #17202A, #1B2631); /* from left to right */
+    background: -o-linear-gradient(right, #1B2631, #1B2631); /* ending on the right */
+    background: -moz-linear-gradient(right, #1B2631, #1B2631); /* ending on the right */
+    background: linear-gradient(to right, #1B2631, #1B2631); /* moving to the right */
+    background-color: #17202A; 
+}
+</style>
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: #5499C7;
+    text-align: center;
+    padding: 9px 15px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #000000;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="IOSWALLART.html"><font face="impact"font size = "7">Home</font></a></li>
+  <li><a href="wallpaper.html"><font face="impact"font size = "7">APPS</font></a></li>
+  <li><a href="CONTACT.HTML"><font face="impact"font size = "7">Contact</font></a></li>
+  <li><a href="about.html"><font face="impact"font size = "7">About</font></a></li>
+</ul>
+
+<center><font face="impact"font size = "1" font color = "black"><b>____________________________________________________________________________________________________</b></font></center><BR>
+
+
+<center><font face="impact"font size = "7" font color = "#5499C7"><b>iOS HACKSTORE</b></font></center>
+
+<center><font face="impact"font size = "1" font color = "black"><b>____________________________________________________________________________________________________</b></font></center>
+
+<BR>
+<BR>
+
+
+
+<center><img src="IPHONEART.png" alt="HTML5 Icon" style="width:300px;height:300px;"></center>
+
+<br>
+<br>
+<form>
+<center><input style="width: 500px; padding: 15px; cursor: pointer; box-shadow: 6px 6px 5px; #5499C7; -webkit-box-shadow: 6px 6px 5px #5499C7; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #212121; color: #5499C7; border-radius: 19px; border: 5px solid  #5499C7; font-size: 150%;" type="button" value="DOWNLOAD iOS HACKSTORE" onclick="window.location.href='https://www.youtube.com/channel/UCDk6ThShbn-CYSCGz9R_iaA'" /></center>
+</form>
+
+<br>
+<br>
+<br>
+
+
+<center><img src="YTAPP.png" alt="HTML5 Icon" style="width:256px;height:256px;"></center>
+<BR>
+<BR>
+
+<form>
+<center><input style="width: 500px; padding: 15px; cursor: pointer; box-shadow: 6px 6px 5px; #5499C7; -webkit-box-shadow: 6px 6px 5px #5499C7; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #212121; color: #5499C7; border-radius: 19px; border: 5px solid  #5499C7; font-size: 150%;" type="button" value="PLEASE VISIT MY CHANNEL " onclick="window.location.href='https://www.youtube.com/channel/UCDk6ThShbn-CYSCGz9R_iaA'" /></center>
+</form>
+
+
+<center><font face="impact"font size = "4" font color = "black"><b>  </b></font></center>
+<br>
+
+<br>
+<br>
+
+<center><img src="ALLITALKISTECH.png" alt="HTML5 Icon" style="width:256px;height:256px;"></center>
+
+
+
+<br>
+
+
+<center><font face="impact"font size = "1" font color = "black"><b>____________________________________________________________________________________________________</b></font></center>
+
+
+
+<center><font face="impact"font size = "7" font color = "#5499C7"><b>DEVELOPED BY <A HREF= "HTTP/WWW.ALLITALKISTECH.COM">@ALLITALKISTECH<A></b></font></center>
+
+<center><font face="impact"font size = "1" font color = "black"><b>____________________________________________________________________________________________________</b></font></center>
+<br>
+<BR>
+<BR>
+<center><font face="impact"font size = "7" font color = "#5499C7"><b>HERE ARE SOME GREAT YOUTUBERS</b></font></center>
+
+
+
+<BR>
+<BR>
+<center><A HREF= "HTTP/WWW.ALLITALKISTECH.COM"><img src="ALLITALKISTECH.png" alt="HTML5 Icon" style="width:256px;height:256px;"></A></center>
+
+
+<BR>
+<BR>
+<center><A HREF= "HTTP/WWW.ALLITALKISTECH.COM"><img src="AA.png" alt="HTML5 Icon" style="width:256px;height:256px;"></A></center>
+
+
+
+
+<BR>
+<BR>
+<center><A HREF= "HTTP/WWW.ALLITALKISTECH.COM"><img src="ATV.png" alt="HTML5 Icon" style="width:256px;height:256px;"></A></center>
+
+<BR>
+<BR>
+<center><A HREF= "HTTP/WWW.ALLITALKISTECH.COM"><img src="IAT.png" alt="HTML5 Icon" style="width:256px;height:256px;"></A></center>
+
+<BR>
+<BR>
+<center><A HREF= "HTTP/WWW.ALLITALKISTECH.COM"><img src="TT.png" alt="HTML5 Icon" style="width:256px;height:256px;"></A></center>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

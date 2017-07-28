@@ -1,0 +1,70 @@
+<!DOCTYPE html><html>
+<head>
+<style type='text/css'>
+body{
+    margin:0;
+}
+.dockHolder {
+    position: fixed;
+    text-align: center;
+    bottom: 0; 
+    left: 0;
+    right: 0;
+    height: 128px;
+    line-height: 128px;
+}
+
+.dock {
+    background:#1B2631;
+    background:#1B2631
+ 
+   
+    border: 100px solid grey;
+    max-width:100%;
+    vertical-align: bottom;
+    line-height: 1em;
+    padding:  50px;
+    opacity: 0.8;
+}
+
+.dockItem {
+    display: inline;
+    height: 50%;
+    vertical-align: bottom;
+
+    transition-property:width, height;
+    -o-transition-property:width, height;
+    -ms-transition-property:width, height;
+    -moz-transition-property:width, height;
+    -webkit-transition-property:width, height;
+    transition-duration:.25s;
+    -o-transition-duration:.25s;
+    -ms-transition-duration:.25s;
+    -moz-transition-duration:.25s;
+    -webkit-transition-duration:.25s;
+    transition-timing-function:ease-in-out;
+    -o-transition-timing-function:ease-in-out;
+    -ms-transition-timing-function:ease-in-out;
+    -moz-transition-timing-function:ease-in-out;
+    -webkit-transition-timing-function:ease-in-out;
+}
+.dockItem:hover {
+    height: 100%;
+}
+.dockItem: {
+    vertical-align:top;
+    height:95%
+}
+</style>
+</head>
+<body>
+    <div class="dockHolder" style="height:128px;line-height:128px;">
+        <span class="dock">
+            <a href="index.html"><img class="dockItem" src="ihs.png"/></a>
+            <a href="wallpaper.html"><img class="dockItem" src="jb2.png"/></a>
+            <a href="twit.html"><img class="dockItem" src="twit.png"/></a>
+        </span>
+    </div>
+
+</body>
+</html>
